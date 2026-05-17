@@ -1,6 +1,18 @@
 {
   "version": 1,
   "skills": {
+    "frontend-develop": {
+      "source": "mungaakei/skills",
+      "sourceType": "github",
+      "skillPath": "frontend-develop/SKILL.md",
+      "computedHash": "35bfd77704845221cc357b40611cd3135c2305a918c85d871aeaf37170eec1ba"
+    },
+    "ioca-components": {
+      "source": "mungaakei/skills",
+      "sourceType": "github",
+      "skillPath": "ioca-components/SKILL.md",
+      "computedHash": "511786c2861b6129b95a936046ecb2082912c0bb7185c7f8171f23b3ae588ab7"
+    },
     "skill-creator": {
       "source": "anthropics/skills",
       "sourceType": "github",
