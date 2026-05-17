@@ -1,6 +1,6 @@
 ---
 name: frontend-develop
-description: Enhance frontend code analysis and development. Trigger when users write, modify, or review React/JS/TS code. Helps optimize code logic, clarify code structure, and improve rendering performance. Suitable for: code review and refactoring suggestions, component splitting design, rendering performance analysis and optimization, code quality issue diagnosis, project structure optimization, state management recommendations, hook logic extraction. Whether fixing bugs, adding features, or optimizing existing code, use this skill to improve code quality and maintainability.
+description: Enhance frontend code analysis and development. Trigger when users write, modify, or review React/JS/TS code. Helps optimize code logic, clarify code structure, and improve rendering performance. Including code review and refactoring suggestions, component splitting design, rendering performance analysis and optimization, code quality issue diagnosis, project structure optimization, state management recommendations, hook logic extraction. Whether fixing bugs, adding features, or optimizing existing code, use this skill to improve code quality and maintainability.
 ---
 
 # Frontend Skill
